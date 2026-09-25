@@ -49,3 +49,5 @@ Para simplificar la complejidad de la *Landscape Matrix* de BIAN v14, hemos sint
 Las entradas indexadas en las páginas de este repositorio no dependen de cargas manuales propensas a desactualización. Operamos un **Agente de IA especializado en Arquitectura Financiera** que ejecuta procesos de *scraping* continuos sobre fuentes oficiales (SBS, BCRP, FEPCMAC), análisis económico (Gestión, Semana Económica, Bloomberg) y ecosistema Fintech.
 
 Cada corte de mapeo genera una nueva página estructurada bajo la taxonomía descrita, permitiendo auditar la evolución tecnológica financiera del Perú en tiempo real.
+
+El Radar esta disponible en: https://cps-tech.com/radarfinanciero/index.html
