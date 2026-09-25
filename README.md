@@ -15,7 +15,7 @@ En el contexto financiero peruano, la velocidad de comercialización (*Time-to-M
 ---
 
 ## 🗺️ Marco Metodológico: Los 4 Cuadrantes del Radar
-
+![Radar](radar.png)
 Para simplificar la complejidad de la *Landscape Matrix* de BIAN v14, hemos sintetizado el ecosistema financiero peruano en **4 Cuadrantes Estratégicos**. Cada iniciativa capturada por nuestro motor de *scraping* se clasifica automáticamente dentro de esta estructura canónica:
 
 ### 1. 📱 Sales & Service (Canales, Experiencia y Clientes)
